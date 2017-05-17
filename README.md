@@ -1,15 +1,20 @@
 ## Getting Started
 
-```sh
-npm install
-```
+This repository is my first prototype to use React-Redux. :)
 
-# Clone repo
+### Clone this repo
 
 ```sh
 git clone https://github.com/akbhartomo/react-todolist.git
 ```
 
+### Install
+
+```sh
+npm install
+```
+
+### Clone repo
   - [npm start](#npm-start)
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)

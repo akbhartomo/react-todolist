@@ -1,8 +1,15 @@
 ## Getting Started
 
-git clone https://github.com/akbhartomo/react-todolist.git
+```sh
+npm install
+```
 
-  - [npm install]
+# Clone repo
+
+```sh
+git clone https://github.com/akbhartomo/react-todolist.git
+```
+
   - [npm start](#npm-start)
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)

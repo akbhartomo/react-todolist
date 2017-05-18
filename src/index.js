@@ -6,10 +6,10 @@ import App from './components/App'
 import reducer from './reducers'
 import './styles/main.css'
 
-const store = createStore(reducer)
+const storage = createStore(reducer)
 
 ReactDOM.render(
-  <Provider store={store}>
+  <Provider store={storage}>
     <App />
   </Provider>,
   document.getElementById('root')
